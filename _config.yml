@@ -1,12 +1,14 @@
 # Site settings
 title: WellVersedHub
-email: enquires@wellversedhub.com
+email: info@wellversedhub.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "wellversedhub.com" # the base hostname & protocol for your site
 
-twitter_username: wellversedhub
-github_username: wellversedhub
+linkedin_handle: wellversedhub
+tel_number: +27 21 006 2129
+twitter_handle: wellversedhub
+github_handle: wellversedhub
 
 # Build settings
 markdown: kramdown
